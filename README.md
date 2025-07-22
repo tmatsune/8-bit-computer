@@ -3,6 +3,10 @@
 This project is a fully functional **8-bit computer** designed and built from scratch using [Logisim](http://www.cburch.com/logisim/). Inspired by Ben Eater’s series and classic computer architecture, it aims to demonstrate the fundamentals of digital logic, CPU design, and low-level programming.
 
 ---
+## Schematic
+/schematic/circuit_bottom_half.png
+
+---
 
 ## 🚀 Features
 

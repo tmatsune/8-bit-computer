@@ -11,7 +11,7 @@ This project is a fully functional **8-bit computer** designed and built from sc
 - **Clock and control unit** with microprogrammed control logic
 - **ALU (Arithmetic Logic Unit)** supporting addition, subtraction, AND, OR, NOT
 - **Registers:** A, B, Instruction Register (IR), Program Counter (PC), Flags
-- **RAM** module (up to 64K addressable space)
+- **RAM** module 
 - **ROM** for hardcoded programs
 - **Simple assembler & machine code format**
 - **Support for jump, conditional branching, and immediate values**

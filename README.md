@@ -4,7 +4,9 @@ This project is a fully functional **8-bit computer** designed and built from sc
 
 ---
 ## Schematic
+![My Project](schematic/circuit_top_half.png)
 ![My Project](schematic/circuit_bottom_half.png)
+![My Project](schematic/control_unit_half.png)
 
 ---
 
